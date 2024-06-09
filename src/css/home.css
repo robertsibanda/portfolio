@@ -1,0 +1,14 @@
+.home-text {
+    margin: 10px;
+    padding: 5px;
+    display: block;
+    max-width: 80%;
+}
+
+.home-text a {
+    text-decoration: none;
+}
+
+.home-text p {
+    font-weight: normal;
+}
