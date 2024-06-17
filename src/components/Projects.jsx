@@ -5,6 +5,8 @@ import pythonchain from "../images/pythonchain.png"
 import android_ehr from "../images/patient_home.png"
 import commerce from "../images/commerce.png"
 import notes from "../images/notes-app-react.jpg"
+import django_React from "../images/django_react.png"
+
 
 const ProjectDisplayItem =  ( { item  }) => (
   <div className="project">
@@ -34,6 +36,13 @@ export default function Projects() {
         "The backend of the EHR is a Node.js Express.js Application",
       scrCode : "https://github.com/robertsibanda/sci4202",
       imageSrc : android_ehr
+    },
+
+    {
+      title : "React & Django Notes app",
+      description : "A notes taking app developed using React and Django",
+      scrCode : "https://github.com/robertsibanda/react_django_notes_app",
+      imageSrc : django_React
     },
 
     { 
