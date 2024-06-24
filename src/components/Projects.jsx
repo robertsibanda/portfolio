@@ -50,8 +50,8 @@ export default function Projects() {
     {
       title : "Talent Verify",
       description : "This system provides a robust platform for companies"+
-       "to store, manage, and verify employee information efficiently."+
-       "The primary features include company and employee management, bulk data uploads",
+       "to store, manage, employee information."+
+       "The primary features includeemployee management, bulk data uploads",
       scrCode : "https://github.com/robertsibanda/talent_verify",
       imageSrc : talent_verify
     },
