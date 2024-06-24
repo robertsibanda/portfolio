@@ -6,6 +6,7 @@ import android_ehr from "../images/patient_home.png"
 import commerce from "../images/commerce.png"
 import notes from "../images/notes-app-react.jpg"
 import django_React from "../images/django_react.png"
+import talent_verify from "../images/taltent_verify.png"
 
 
 const ProjectDisplayItem =  ( { item  }) => (
@@ -43,6 +44,16 @@ export default function Projects() {
       description : "A notes taking app developed using React and Django",
       scrCode : "https://github.com/robertsibanda/react_django_notes_app",
       imageSrc : django_React
+    },
+
+
+    {
+      title : "Talent Verify",
+      description : "This system provides a robust platform for companies"+
+       "to store, manage, and verify employee information efficiently."+
+       "The primary features include company and employee management, bulk data uploads",
+      scrCode : "https://github.com/robertsibanda/talent_verify",
+      imageSrc : talent_verify
     },
 
     { 
