@@ -19,7 +19,7 @@ const projectsData = [
   {
     title: "React & Django Notes",
     description: "Full-stack notes application with React frontend and Django REST API backend.",
-    code: "https://github.com/robertsibanda/react_django_notes_app",
+    code: "https://github.com/robertsibanda/react_notes_app",
     image: django_React,
     tech: ["React", "Django", "REST API"],
   },
@@ -40,23 +40,23 @@ const projectsData = [
   {
     title: "Express Notes App",
     description: "Note-taking application built with Express.js, MySQL, and server-rendered HTML.",
-    code: "https://github.com/robertsibanda/notes-app",
+    code: "https://github.com/robertsibanda/node_rest_api",
     image: notes,
     tech: ["Express.js", "MySQL", "HTML/CSS"],
   },
   {
     title: "Blockchain EHR",
     description: "Blockchain-based medical records system using Python, MongoDB, gRPC, and JSON-RPC.",
-    code: "https://github.com/robertsibanda/python-blockchain",
+    code: "https://github.com/robertsibanda/Python-blockchain",
     image: pythonchain,
     tech: ["Python", "MongoDB", "gRPC", "Blockchain"],
   },
   {
-    title: "E-Commerce",
-    description: "Django e-commerce platform with product management and shopping cart functionality.",
-    code: "https://github.com/robertsibanda/notes-app",
+    title: "Event Management",
+    description: "Full-stack event management platform with a React TypeScript frontend and Django REST API backend.",
+    code: "https://github.com/robertsibanda/event-mgt-frontend",
     image: commerce,
-    tech: ["Django", "Python", "E-Commerce"],
+    tech: ["React", "TypeScript", "Django", "Full-Stack"],
   },
 ];
 
