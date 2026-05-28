@@ -23,9 +23,9 @@ export default function Home() {
             Hi, I'm <span className="gradient-text">Robert Sibanda</span>
           </h1>
           <p className="hero-description">
-            Informatics graduate passionate about building full-stack applications
-            with React, Django, Python, and Android. I turn complex problems into
-            elegant, user-friendly solutions.
+            Informatics graduate and ATS agent at 1-grid, based in Cape Town.
+            Passionate about building full-stack applications with React, Django,
+            Python, and Android — turning complex problems into elegant solutions.
           </p>
           <div className="hero-actions">
             <Link to="/projects" className="btn btn-primary">
