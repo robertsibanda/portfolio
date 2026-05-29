@@ -7,8 +7,16 @@ import commerce from "../images/commerce.png";
 import notes from "../images/notes-app-react.jpg";
 import django_React from "../images/django_react.png";
 import talent_verify from "../images/taltent_verify.png";
+import support_agent from "../images/support_agent.png";
 
 const projectsData = [
+  {
+    title: "1-grid AI Support Agent",
+    description: "Self-hosted AI support agent for 1-grid South Africa with domain diagnosis (zonewalk), knowledge base search, email log analysis, DNS tools, and streaming Groq-LLM chat — deployed on a VPS behind nginx.",
+    code: "https://github.com/robertsibanda/1grid-support-agent",
+    image: support_agent,
+    tech: ["Python", "FastAPI", "MongoDB", "Groq API", "Ollama", "DNS"],
+  },
   {
     title: "Android EHR",
     description: "Electronic Health Records system built with Java (Android) and Node.js/Express backend.",
