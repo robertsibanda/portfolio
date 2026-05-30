@@ -11,6 +11,13 @@ import support_agent from "../images/support_agent.png";
 
 const projectsData = [
   {
+    title: "Zonewalk",
+    description: "DNS & Mail diagnostics tool for cPanel/Plesk environments. Complete Python rewrite of the original Bash tool — with SPF/DKIM/DMARC validation, port scanning, blocklist checks, email header analysis, and global propagation checks. Zero external dependencies.",
+    code: "https://github.com/robertsibanda/zonewalk",
+    image: support_agent,
+    tech: ["Python", "DNS", "SysAdmin", "CLI", "Stdlib"],
+  },
+  {
     title: "1-grid AI Support Agent",
     description: "Self-hosted AI support agent for 1-grid South Africa with domain diagnosis (zonewalk), knowledge base search, email log analysis, DNS tools, and streaming Groq-LLM chat — deployed on a VPS behind nginx.",
     code: "https://github.com/robertsibanda/1grid-support-agent",

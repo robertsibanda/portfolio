@@ -7,7 +7,8 @@ const skillsData = [
   { category: "Languages", skills: ["Python", "Java", "JavaScript"] },
   { category: "Mobile", skills: ["Android", "Spring Boot"] },
   { category: "Databases", skills: ["MongoDB", "MySQL"] },
-  { category: "Tools", skills: ["Git", "Docker", "VS Code"] },
+  { category: "Tools", skills: ["Git", "Docker", "VS Code", "Bash"] },
+  { category: "SysAdmin", skills: ["DNS", "Linux", "Nginx", "cPanel"] },
 ];
 
 export default function About() {

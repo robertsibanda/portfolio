@@ -46,6 +46,16 @@ const skillCategories = [
       { name: "MySQL", level: 70 },
     ],
   },
+  {
+    name: "SysAdmin & DevOps",
+    icon: "🖥️",
+    skills: [
+      { name: "DNS/Dig", level: 85 },
+      { name: "Linux", level: 75 },
+      { name: "Nginx", level: 70 },
+      { name: "Bash", level: 80 },
+    ],
+  },
 ];
 
 export default function Skills() {

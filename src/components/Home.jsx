@@ -24,8 +24,9 @@ export default function Home() {
           </h1>
           <p className="hero-description">
             Informatics graduate and ATS agent at 1-grid, based in Cape Town.
-            Passionate about building full-stack applications with React, Django,
-            Python, and Android — turning complex problems into elegant solutions.
+            Python developer building DNS/sysadmin tools (zonewalk), full-stack
+            applications with Django/React, and AI support agents — turning
+            complex problems into elegant solutions.
           </p>
           <div className="hero-actions">
             <Link to="/projects" className="btn btn-primary">
